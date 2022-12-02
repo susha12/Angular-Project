@@ -9,15 +9,7 @@ import {Component, OnInit} from '@angular/core';
 
 })
 export class AppComponent implements OnInit{
-  public  exercise = [
-    'CV form',
-    'სახელი',
-    'გვარი',
-    'საკონტაკრო ინფორმაცია',
-    'რესურსები(github, linkdin)',
-    'სამუშაო გამოცდილება',
-    'განათლება'
-  ]
+
 
   ngOnInit(){
 
